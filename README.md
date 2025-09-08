@@ -2,9 +2,12 @@
 
 A simple and fun login form with a Doraemon theme, created using HTML and CSS. This project demonstrates basic web design principles and styling techniques.
 
-# Live Demo
+---
 
-You can view the live demo of the 
+##  Live Demo  
+▶ [View the Live Layout](https://souravgour-17.github.io/Doraemon-Login-Form/)
+
+---
 
 # login form here:
 
